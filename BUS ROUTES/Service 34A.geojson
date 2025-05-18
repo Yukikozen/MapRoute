@@ -1,0 +1,400 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-03-10T09:41:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6623031",
+        "direction": "1",
+        "from": "Punggol Temporary Interchange",
+        "name": "Svc 34A",
+        "public_transport:version": "2",
+        "ref": "34A",
+        "route": "bus",
+        "to": "Opposite Tampines Stadium",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              103.9023155,
+              1.4034919
+            ],
+            [
+              103.9022324,
+              1.4036635
+            ],
+            [
+              103.9022109,
+              1.4037547
+            ],
+            [
+              103.9022109,
+              1.403819
+            ],
+            [
+              103.9024009,
+              1.4041775
+            ],
+            [
+              103.9026193,
+              1.4045984
+            ],
+            [
+              103.9026671,
+              1.4046228
+            ],
+            [
+              103.9028788,
+              1.4044948
+            ],
+            [
+              103.9023155,
+              1.4034919
+            ],
+            [
+              103.9025304,
+              1.403368
+            ],
+            [
+              103.9026886,
+              1.4032743
+            ],
+            [
+              103.9029776,
+              1.4031102
+            ],
+            [
+              103.902983,
+              1.4031189
+            ],
+            [
+              103.9033585,
+              1.4037261
+            ],
+            [
+              103.9034812,
+              1.4039168
+            ],
+            [
+              103.9036107,
+              1.4041337
+            ],
+            [
+              103.9037633,
+              1.4043804
+            ],
+            [
+              103.9038275,
+              1.4044809
+            ],
+            [
+              103.9039067,
+              1.4044437
+            ],
+            [
+              103.904112,
+              1.4043433
+            ],
+            [
+              103.9047004,
+              1.4040091
+            ],
+            [
+              103.9049444,
+              1.4038705
+            ],
+            [
+              103.9052092,
+              1.4036879
+            ],
+            [
+              103.9055394,
+              1.4034604
+            ],
+            [
+              103.9059194,
+              1.4032213
+            ],
+            [
+              103.9062514,
+              1.4029677
+            ],
+            [
+              103.9063671,
+              1.4028932
+            ],
+            [
+              103.9063242,
+              1.4027819
+            ],
+            [
+              103.9061699,
+              1.4024165
+            ],
+            [
+              103.9060055,
+              1.4020051
+            ],
+            [
+              103.9057549,
+              1.401378
+            ],
+            [
+              103.9056944,
+              1.4012267
+            ],
+            [
+              103.9055715,
+              1.4009191
+            ],
+            [
+              103.9054296,
+              1.4005801
+            ],
+            [
+              103.9053789,
+              1.4004672
+            ],
+            [
+              103.9052784,
+              1.4002649
+            ],
+            [
+              103.9051577,
+              1.3999848
+            ],
+            [
+              103.9050898,
+              1.3998178
+            ],
+            [
+              103.9049717,
+              1.3995537
+            ],
+            [
+              103.9046416,
+              1.3988584
+            ],
+            [
+              103.9044522,
+              1.3984454
+            ],
+            [
+              103.9042792,
+              1.3980713
+            ],
+            [
+              103.9041011,
+              1.3977284
+            ],
+            [
+              103.9040748,
+              1.3975609
+            ],
+            [
+              103.9040403,
+              1.3974097
+            ],
+            [
+              103.9040419,
+              1.3973301
+            ],
+            [
+              103.9040698,
+              1.3972514
+            ],
+            [
+              103.9041196,
+              1.3971519
+            ],
+            [
+              103.9041682,
+              1.3970771
+            ],
+            [
+              103.9042027,
+              1.3970303
+            ],
+            [
+              103.9042598,
+              1.3969357
+            ],
+            [
+              103.9045353,
+              1.3966944
+            ],
+            [
+              103.9048951,
+              1.3963754
+            ],
+            [
+              103.9059416,
+              1.3953595
+            ],
+            [
+              103.9060462,
+              1.3951853
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6623031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847853709",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623031,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 34A (Punggol Temporary Interchange => Opposite Tampines Stadium)",
+              "public_transport:version": "2",
+              "ref": "34A",
+              "route": "bus",
+              "to": "Opposite Tampines Stadium",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9025242,
+          1.404107
+        ]
+      },
+      "id": "node/1847853709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472376",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623031,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 34A (Punggol Temporary Interchange => Opposite Tampines Stadium)",
+              "public_transport:version": "2",
+              "ref": "34A",
+              "route": "bus",
+              "to": "Opposite Tampines Stadium",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9048174,
+          1.4040774
+        ]
+      },
+      "id": "node/410472376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472575",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623031,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 34A (Punggol Temporary Interchange => Opposite Tampines Stadium)",
+              "public_transport:version": "2",
+              "ref": "34A",
+              "route": "bus",
+              "to": "Opposite Tampines Stadium",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058481,
+          1.4013487
+        ]
+      },
+      "id": "node/410472575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472469",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623031,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 34A (Punggol Temporary Interchange => Opposite Tampines Stadium)",
+              "public_transport:version": "2",
+              "ref": "34A",
+              "route": "bus",
+              "to": "Opposite Tampines Stadium",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9047796,
+          1.3988936
+        ]
+      },
+      "id": "node/410472469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3553028926",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623031,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 34A (Punggol Temporary Interchange => Opposite Tampines Stadium)",
+              "public_transport:version": "2",
+              "ref": "34A",
+              "route": "bus",
+              "to": "Opposite Tampines Stadium",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9055001,
+          1.3959978
+        ]
+      },
+      "id": "node/3553028926"
+    }
+  ]
+}

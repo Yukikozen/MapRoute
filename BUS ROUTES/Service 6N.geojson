@@ -1,0 +1,764 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-03-10T09:43:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6623068",
+        "direction": "1",
+        "from": "Marina Centre Terminal",
+        "name": "Svc 6N",
+        "public_transport:version": "2",
+        "ref": "6N",
+        "route": "bus",
+        "to": "Opposite Blk 201A",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              103.9050242,
+              1.4000698
+            ],
+            [
+              103.9051577,
+              1.3999848
+            ],
+            [
+              103.9054033,
+              1.3998295
+            ],
+            [
+              103.9055986,
+              1.3997228
+            ],
+            [
+              103.905743,
+              1.3996407
+            ],
+            [
+              103.9059382,
+              1.3995079
+            ],
+            [
+              103.9061025,
+              1.3993839
+            ],
+            [
+              103.9063653,
+              1.3991216
+            ],
+            [
+              103.9067438,
+              1.3988277
+            ],
+            [
+              103.9069347,
+              1.3986613
+            ],
+            [
+              103.9070557,
+              1.3985677
+            ],
+            [
+              103.9072434,
+              1.3983908
+            ],
+            [
+              103.9072954,
+              1.3983383
+            ],
+            [
+              103.9075169,
+              1.3981835
+            ],
+            [
+              103.9088727,
+              1.3970902
+            ],
+            [
+              103.9090782,
+              1.3969215
+            ],
+            [
+              103.9099627,
+              1.3961952
+            ],
+            [
+              103.9100457,
+              1.3961306
+            ],
+            [
+              103.9101733,
+              1.3960314
+            ],
+            [
+              103.9107444,
+              1.3955554
+            ],
+            [
+              103.9109561,
+              1.3953768
+            ],
+            [
+              103.9110416,
+              1.3953097
+            ],
+            [
+              103.9112474,
+              1.3951371
+            ],
+            [
+              103.9117163,
+              1.3947438
+            ],
+            [
+              103.9125156,
+              1.3940733
+            ],
+            [
+              103.9131276,
+              1.3935852
+            ],
+            [
+              103.9135578,
+              1.3932211
+            ],
+            [
+              103.9137421,
+              1.3930598
+            ],
+            [
+              103.9138962,
+              1.3929069
+            ],
+            [
+              103.9141667,
+              1.3926882
+            ],
+            [
+              103.9143538,
+              1.3926335
+            ],
+            [
+              103.9145071,
+              1.3926103
+            ],
+            [
+              103.9146295,
+              1.3926309
+            ],
+            [
+              103.9147461,
+              1.3926905
+            ],
+            [
+              103.9153271,
+              1.3935515
+            ],
+            [
+              103.9159361,
+              1.3944125
+            ],
+            [
+              103.9160223,
+              1.3945399
+            ],
+            [
+              103.9161319,
+              1.3946994
+            ],
+            [
+              103.9162581,
+              1.3948768
+            ],
+            [
+              103.916461,
+              1.3951636
+            ],
+            [
+              103.9164794,
+              1.3952835
+            ],
+            [
+              103.9164762,
+              1.3953631
+            ],
+            [
+              103.9164513,
+              1.3954684
+            ],
+            [
+              103.9164202,
+              1.3955405
+            ],
+            [
+              103.915859,
+              1.3959572
+            ],
+            [
+              103.9145279,
+              1.3969054
+            ],
+            [
+              103.9136439,
+              1.3975301
+            ],
+            [
+              103.9135175,
+              1.3976194
+            ],
+            [
+              103.9131969,
+              1.3978418
+            ],
+            [
+              103.9129379,
+              1.3980309
+            ],
+            [
+              103.9128445,
+              1.3980923
+            ],
+            [
+              103.912612,
+              1.3982546
+            ],
+            [
+              103.9110447,
+              1.3993851
+            ],
+            [
+              103.9105688,
+              1.3997166
+            ],
+            [
+              103.9102403,
+              1.3999723
+            ],
+            [
+              103.9098166,
+              1.4002906
+            ],
+            [
+              103.9096959,
+              1.4003706
+            ],
+            [
+              103.9092798,
+              1.4006592
+            ],
+            [
+              103.9090579,
+              1.4008299
+            ],
+            [
+              103.908953,
+              1.4009033
+            ],
+            [
+              103.9087462,
+              1.4010518
+            ],
+            [
+              103.9082113,
+              1.4014434
+            ],
+            [
+              103.9076905,
+              1.4018223
+            ],
+            [
+              103.907324,
+              1.4020768
+            ],
+            [
+              103.9072901,
+              1.4021003
+            ],
+            [
+              103.9069848,
+              1.4023043
+            ],
+            [
+              103.9066905,
+              1.4025138
+            ],
+            [
+              103.9063242,
+              1.4027819
+            ],
+            [
+              103.9062096,
+              1.4028509
+            ],
+            [
+              103.9059567,
+              1.4030193
+            ],
+            [
+              103.9056049,
+              1.4032387
+            ],
+            [
+              103.9050811,
+              1.4035652
+            ],
+            [
+              103.9048547,
+              1.4037063
+            ],
+            [
+              103.9045247,
+              1.4039163
+            ],
+            [
+              103.9041064,
+              1.4041728
+            ],
+            [
+              103.9039539,
+              1.4041802
+            ],
+            [
+              103.9038601,
+              1.4041695
+            ],
+            [
+              103.9036825,
+              1.4040922
+            ],
+            [
+              103.9035067,
+              1.4038042
+            ],
+            [
+              103.9030476,
+              1.4030778
+            ],
+            [
+              103.9030414,
+              1.403068
+            ],
+            [
+              103.9026262,
+              1.4023821
+            ],
+            [
+              103.9025116,
+              1.4021538
+            ],
+            [
+              103.9022654,
+              1.4017861
+            ],
+            [
+              103.902118,
+              1.4015093
+            ],
+            [
+              103.9023476,
+              1.4013854
+            ],
+            [
+              103.9031734,
+              1.40098
+            ],
+            [
+              103.9034421,
+              1.4008596
+            ],
+            [
+              103.9041209,
+              1.4005336
+            ],
+            [
+              103.9043798,
+              1.4004082
+            ],
+            [
+              103.9046828,
+              1.4002637
+            ],
+            [
+              103.9050242,
+              1.4000698
+            ],
+            [
+              103.9049553,
+              1.39991
+            ],
+            [
+              103.9048079,
+              1.399602
+            ],
+            [
+              103.9047925,
+              1.3995645
+            ],
+            [
+              103.9046956,
+              1.3993276
+            ],
+            [
+              103.9046225,
+              1.3991291
+            ],
+            [
+              103.9045152,
+              1.3988851
+            ],
+            [
+              103.9043652,
+              1.3985837
+            ],
+            [
+              103.9040473,
+              1.3979103
+            ],
+            [
+              103.9037434,
+              1.3973098
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6623068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472381",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9035672,
+          1.4008806
+        ]
+      },
+      "id": "node/410472381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472387",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9065501,
+          1.3991335
+        ]
+      },
+      "id": "node/410472387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472394",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9098666,
+          1.3963978
+        ]
+      },
+      "id": "node/410472394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472393",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9122461,
+          1.3944344
+        ]
+      },
+      "id": "node/410472393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472379",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.915795,
+          1.39429
+        ]
+      },
+      "id": "node/410472379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472378",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9149239,
+          1.3964771
+        ]
+      },
+      "id": "node/410472378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472369",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9109875,
+          1.3993093
+        ]
+      },
+      "id": "node/410472369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472374",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.907635,
+          1.401732
+        ]
+      },
+      "id": "node/410472374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472372",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9055521,
+          1.4032091
+        ]
+      },
+      "id": "node/410472372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472396",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9033256,
+          1.4033115
+        ]
+      },
+      "id": "node/410472396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472402",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 6623068,
+            "reltags": {
+              "direction": "1",
+              "from": "Marina Centre Terminal",
+              "name": "Svc 6N (Marina Centre Terminal => Opposite Blk 201A)",
+              "public_transport:version": "2",
+              "ref": "6N",
+              "route": "bus",
+              "to": "Opposite Blk 201A",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9041539,
+          1.3984929
+        ]
+      },
+      "id": "node/410472402"
+    }
+  ]
+}

@@ -1,0 +1,1425 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-03-10T09:58:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4536775",
+        "direction": "1",
+        "from": "Punggol Temporary Interchange",
+        "name": "Svc 386",
+        "network": "SBS",
+        "public_transport:version": "1",
+        "ref": "386",
+        "route": "bus",
+        "to": "Punggol Temporary Interchange",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              103.9023155,
+              1.4034919
+            ],
+            [
+              103.9022324,
+              1.4036635
+            ],
+            [
+              103.9022109,
+              1.4037547
+            ],
+            [
+              103.9022109,
+              1.403819
+            ],
+            [
+              103.9024009,
+              1.4041775
+            ],
+            [
+              103.9026193,
+              1.4045984
+            ],
+            [
+              103.9026671,
+              1.4046228
+            ],
+            [
+              103.9028788,
+              1.4044948
+            ],
+            [
+              103.9023155,
+              1.4034919
+            ],
+            [
+              103.9025304,
+              1.403368
+            ],
+            [
+              103.9026886,
+              1.4032743
+            ],
+            [
+              103.9029776,
+              1.4031102
+            ],
+            [
+              103.902983,
+              1.4031189
+            ],
+            [
+              103.9033585,
+              1.4037261
+            ],
+            [
+              103.9034812,
+              1.4039168
+            ],
+            [
+              103.9036107,
+              1.4041337
+            ],
+            [
+              103.9037633,
+              1.4043804
+            ],
+            [
+              103.9038275,
+              1.4044809
+            ],
+            [
+              103.9039067,
+              1.4044437
+            ],
+            [
+              103.904112,
+              1.4043433
+            ],
+            [
+              103.9047004,
+              1.4040091
+            ],
+            [
+              103.9049444,
+              1.4038705
+            ],
+            [
+              103.9052092,
+              1.4036879
+            ],
+            [
+              103.9055394,
+              1.4034604
+            ],
+            [
+              103.9059194,
+              1.4032213
+            ],
+            [
+              103.9062514,
+              1.4029677
+            ],
+            [
+              103.9063671,
+              1.4028932
+            ],
+            [
+              103.9065893,
+              1.4027593
+            ],
+            [
+              103.9071575,
+              1.4023613
+            ],
+            [
+              103.9072297,
+              1.4023108
+            ],
+            [
+              103.9077716,
+              1.40193
+            ],
+            [
+              103.9083671,
+              1.4014838
+            ],
+            [
+              103.9085667,
+              1.4013343
+            ],
+            [
+              103.9088331,
+              1.4011585
+            ],
+            [
+              103.9089786,
+              1.4011487
+            ],
+            [
+              103.9090396,
+              1.4011655
+            ],
+            [
+              103.9091328,
+              1.4011969
+            ],
+            [
+              103.9092274,
+              1.4012536
+            ],
+            [
+              103.9096253,
+              1.4018092
+            ],
+            [
+              103.9099899,
+              1.4023182
+            ],
+            [
+              103.9100849,
+              1.4024508
+            ],
+            [
+              103.9102508,
+              1.4026825
+            ],
+            [
+              103.9106328,
+              1.4032316
+            ],
+            [
+              103.9107513,
+              1.4033859
+            ],
+            [
+              103.9108485,
+              1.4035157
+            ],
+            [
+              103.9109694,
+              1.4036731
+            ],
+            [
+              103.9111292,
+              1.4038826
+            ],
+            [
+              103.9112207,
+              1.4040227
+            ],
+            [
+              103.9114098,
+              1.4043096
+            ],
+            [
+              103.9114416,
+              1.4043461
+            ],
+            [
+              103.9117773,
+              1.4048272
+            ],
+            [
+              103.9121327,
+              1.4053399
+            ],
+            [
+              103.9123015,
+              1.4055866
+            ],
+            [
+              103.9127606,
+              1.4062487
+            ],
+            [
+              103.9129,
+              1.4064497
+            ],
+            [
+              103.9129427,
+              1.4064596
+            ],
+            [
+              103.913003,
+              1.4064167
+            ],
+            [
+              103.9130075,
+              1.4063729
+            ],
+            [
+              103.9128349,
+              1.4061346
+            ],
+            [
+              103.9123351,
+              1.4054443
+            ],
+            [
+              103.9122185,
+              1.4052709
+            ],
+            [
+              103.9118443,
+              1.4047655
+            ],
+            [
+              103.9116123,
+              1.4044598
+            ],
+            [
+              103.9115042,
+              1.4042849
+            ],
+            [
+              103.9112305,
+              1.4038829
+            ],
+            [
+              103.9112006,
+              1.403738
+            ],
+            [
+              103.9112026,
+              1.4036482
+            ],
+            [
+              103.9112436,
+              1.4035388
+            ],
+            [
+              103.9112883,
+              1.4034314
+            ],
+            [
+              103.9127453,
+              1.4023927
+            ],
+            [
+              103.9129992,
+              1.4022109
+            ],
+            [
+              103.9131942,
+              1.4020712
+            ],
+            [
+              103.913396,
+              1.4019312
+            ],
+            [
+              103.9138087,
+              1.4016311
+            ],
+            [
+              103.9138931,
+              1.4015707
+            ],
+            [
+              103.9141417,
+              1.4013882
+            ],
+            [
+              103.9143066,
+              1.4012702
+            ],
+            [
+              103.9145951,
+              1.401068
+            ],
+            [
+              103.9147012,
+              1.401022
+            ],
+            [
+              103.914816,
+              1.4010081
+            ],
+            [
+              103.9149233,
+              1.4010369
+            ],
+            [
+              103.9150204,
+              1.4010987
+            ],
+            [
+              103.9146847,
+              1.400443
+            ],
+            [
+              103.9127614,
+              1.3977777
+            ],
+            [
+              103.9124856,
+              1.3973804
+            ],
+            [
+              103.9122249,
+              1.397005
+            ],
+            [
+              103.9120076,
+              1.3966921
+            ],
+            [
+              103.9116279,
+              1.3961453
+            ],
+            [
+              103.9115285,
+              1.3960021
+            ],
+            [
+              103.9114434,
+              1.3958793
+            ],
+            [
+              103.9112139,
+              1.395549
+            ],
+            [
+              103.9111761,
+              1.3953853
+            ],
+            [
+              103.9111928,
+              1.3952964
+            ],
+            [
+              103.9112474,
+              1.3951371
+            ],
+            [
+              103.9117163,
+              1.3947438
+            ],
+            [
+              103.9125156,
+              1.3940733
+            ],
+            [
+              103.9131276,
+              1.3935852
+            ],
+            [
+              103.9135578,
+              1.3932211
+            ],
+            [
+              103.9137421,
+              1.3930598
+            ],
+            [
+              103.9138962,
+              1.3929069
+            ],
+            [
+              103.9141667,
+              1.3926882
+            ],
+            [
+              103.9143538,
+              1.3926335
+            ],
+            [
+              103.9145071,
+              1.3926103
+            ],
+            [
+              103.9146295,
+              1.3926309
+            ],
+            [
+              103.9147461,
+              1.3926905
+            ],
+            [
+              103.9153271,
+              1.3935515
+            ],
+            [
+              103.9159361,
+              1.3944125
+            ],
+            [
+              103.9160223,
+              1.3945399
+            ],
+            [
+              103.9161319,
+              1.3946994
+            ],
+            [
+              103.9162581,
+              1.3948768
+            ],
+            [
+              103.916461,
+              1.3951636
+            ],
+            [
+              103.9164794,
+              1.3952835
+            ],
+            [
+              103.9164762,
+              1.3953631
+            ],
+            [
+              103.9164513,
+              1.3954684
+            ],
+            [
+              103.9164202,
+              1.3955405
+            ],
+            [
+              103.915859,
+              1.3959572
+            ],
+            [
+              103.9145279,
+              1.3969054
+            ],
+            [
+              103.9136439,
+              1.3975301
+            ],
+            [
+              103.9135175,
+              1.3976194
+            ],
+            [
+              103.9131969,
+              1.3978418
+            ],
+            [
+              103.9129379,
+              1.3980309
+            ],
+            [
+              103.9146847,
+              1.400443
+            ],
+            [
+              103.9144152,
+              1.400081
+            ],
+            [
+              103.9142811,
+              1.3999054
+            ],
+            [
+              103.9141684,
+              1.3997548
+            ],
+            [
+              103.9140008,
+              1.3995166
+            ],
+            [
+              103.9138547,
+              1.3993222
+            ],
+            [
+              103.9135339,
+              1.3988657
+            ],
+            [
+              103.9133933,
+              1.3986679
+            ],
+            [
+              103.9133305,
+              1.3985733
+            ],
+            [
+              103.9132941,
+              1.3985245
+            ],
+            [
+              103.9132116,
+              1.3983983
+            ],
+            [
+              103.913025,
+              1.398153
+            ],
+            [
+              103.9129379,
+              1.3980309
+            ],
+            [
+              103.9128445,
+              1.3980923
+            ],
+            [
+              103.9129423,
+              1.3982171
+            ],
+            [
+              103.9131396,
+              1.3984936
+            ],
+            [
+              103.9134027,
+              1.3988623
+            ],
+            [
+              103.9134516,
+              1.3989307
+            ],
+            [
+              103.9137324,
+              1.3993241
+            ],
+            [
+              103.9140204,
+              1.3997277
+            ],
+            [
+              103.9141983,
+              1.3999769
+            ],
+            [
+              103.9142694,
+              1.4000696
+            ],
+            [
+              103.9143287,
+              1.4001487
+            ],
+            [
+              103.9146219,
+              1.4005488
+            ],
+            [
+              103.9147505,
+              1.4007321
+            ],
+            [
+              103.9148496,
+              1.4008685
+            ],
+            [
+              103.9150204,
+              1.4010987
+            ],
+            [
+              103.915118,
+              1.4012381
+            ],
+            [
+              103.9151877,
+              1.4013426
+            ],
+            [
+              103.9152414,
+              1.4014164
+            ],
+            [
+              103.9153359,
+              1.4015463
+            ],
+            [
+              103.9156861,
+              1.4020432
+            ],
+            [
+              103.9160228,
+              1.4025144
+            ],
+            [
+              103.9161375,
+              1.4026756
+            ],
+            [
+              103.9165051,
+              1.4031921
+            ],
+            [
+              103.9165704,
+              1.4032839
+            ],
+            [
+              103.9167071,
+              1.4034833
+            ],
+            [
+              103.9167516,
+              1.4034895
+            ],
+            [
+              103.9167781,
+              1.4034774
+            ],
+            [
+              103.9168002,
+              1.4034503
+            ],
+            [
+              103.9167992,
+              1.4033994
+            ],
+            [
+              103.9166952,
+              1.4032577
+            ],
+            [
+              103.9162513,
+              1.4026332
+            ],
+            [
+              103.9161164,
+              1.4024555
+            ],
+            [
+              103.9157745,
+              1.4019854
+            ],
+            [
+              103.9155049,
+              1.4016265
+            ],
+            [
+              103.9154291,
+              1.4015303
+            ],
+            [
+              103.9153488,
+              1.4014235
+            ],
+            [
+              103.9150793,
+              1.401034
+            ],
+            [
+              103.9149326,
+              1.4008083
+            ],
+            [
+              103.9148335,
+              1.4006718
+            ],
+            [
+              103.9147505,
+              1.4007321
+            ],
+            [
+              103.914581,
+              1.4008596
+            ],
+            [
+              103.9139872,
+              1.401286
+            ],
+            [
+              103.9118295,
+              1.4028026
+            ],
+            [
+              103.9113762,
+              1.4031212
+            ],
+            [
+              103.910928,
+              1.4034522
+            ],
+            [
+              103.9108044,
+              1.4032837
+            ],
+            [
+              103.910291,
+              1.4025697
+            ],
+            [
+              103.9098908,
+              1.4020132
+            ],
+            [
+              103.9097033,
+              1.4017525
+            ],
+            [
+              103.9095551,
+              1.4015463
+            ],
+            [
+              103.9094513,
+              1.4013995
+            ],
+            [
+              103.9093156,
+              1.4012078
+            ],
+            [
+              103.909135,
+              1.4009476
+            ],
+            [
+              103.9090579,
+              1.4008299
+            ],
+            [
+              103.908953,
+              1.4009033
+            ],
+            [
+              103.9087462,
+              1.4010518
+            ],
+            [
+              103.9082113,
+              1.4014434
+            ],
+            [
+              103.9076905,
+              1.4018223
+            ],
+            [
+              103.907324,
+              1.4020768
+            ],
+            [
+              103.9072901,
+              1.4021003
+            ],
+            [
+              103.9069848,
+              1.4023043
+            ],
+            [
+              103.9066905,
+              1.4025138
+            ],
+            [
+              103.9063242,
+              1.4027819
+            ],
+            [
+              103.9062096,
+              1.4028509
+            ],
+            [
+              103.9059567,
+              1.4030193
+            ],
+            [
+              103.9056049,
+              1.4032387
+            ],
+            [
+              103.9050811,
+              1.4035652
+            ],
+            [
+              103.9048547,
+              1.4037063
+            ],
+            [
+              103.9045247,
+              1.4039163
+            ],
+            [
+              103.9041064,
+              1.4041728
+            ],
+            [
+              103.9038354,
+              1.4043366
+            ],
+            [
+              103.9036825,
+              1.4040922
+            ],
+            [
+              103.9035067,
+              1.4038042
+            ],
+            [
+              103.9030476,
+              1.4030778
+            ],
+            [
+              103.9030414,
+              1.403068
+            ],
+            [
+              103.9029776,
+              1.4031102
+            ]
+          ]
+        ]
+      },
+      "id": "relation/4536775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847853709",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9025242,
+          1.404107
+        ]
+      },
+      "id": "node/1847853709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472376",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9048174,
+          1.4040774
+        ]
+      },
+      "id": "node/410472376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472377",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.907859,
+          1.401923
+        ]
+      },
+      "id": "node/410472377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316956195",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9097855,
+          1.4021363
+        ]
+      },
+      "id": "node/3316956195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316956186",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9124459,
+          1.4059501
+        ]
+      },
+      "id": "node/3316956186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316956185",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9126284,
+          1.4058029
+        ]
+      },
+      "id": "node/3316956185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110622011",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9127387,
+          1.402466
+        ]
+      },
+      "id": "node/2110622011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426007123",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9161895,
+          1.4029162
+        ]
+      },
+      "id": "node/4426007123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865151071",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9139912,
+          1.3994396
+        ]
+      },
+      "id": "node/3865151071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865151063",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9120865,
+          1.3967443
+        ]
+      },
+      "id": "node/3865151063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472393",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9122461,
+          1.3944344
+        ]
+      },
+      "id": "node/410472393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472379",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.915795,
+          1.39429
+        ]
+      },
+      "id": "node/410472379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472378",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9149239,
+          1.3964771
+        ]
+      },
+      "id": "node/410472378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3865151064",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9138187,
+          1.3994654
+        ]
+      },
+      "id": "node/3865151064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110621997",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9127005,
+          1.4021461
+        ]
+      },
+      "id": "node/2110621997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316956194",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9101159,
+          1.4022258
+        ]
+      },
+      "id": "node/3316956194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472374",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.907635,
+          1.401732
+        ]
+      },
+      "id": "node/410472374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472372",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4536775,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 386 (Punggol Temporary Interchange => Punggol Temporary Interchange)",
+              "network": "SBS",
+              "public_transport:version": "1",
+              "ref": "386",
+              "route": "bus",
+              "to": "Punggol Temporary Interchange",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9055521,
+          1.4032091
+        ]
+      },
+      "id": "node/410472372"
+    }
+  ]
+}

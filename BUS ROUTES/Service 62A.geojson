@@ -1,0 +1,478 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-03-10T09:48:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6623061",
+        "direction": "1",
+        "from": "Punggol Temporary Interchange",
+        "name": "Svc 62A",
+        "public_transport:version": "2",
+        "ref": "62A",
+        "route": "bus",
+        "to": "Aljunied Station",
+        "type": "route"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              103.9023155,
+              1.4034919
+            ],
+            [
+              103.9022324,
+              1.4036635
+            ],
+            [
+              103.9022109,
+              1.4037547
+            ],
+            [
+              103.9022109,
+              1.403819
+            ],
+            [
+              103.9024009,
+              1.4041775
+            ],
+            [
+              103.9026193,
+              1.4045984
+            ],
+            [
+              103.9026671,
+              1.4046228
+            ],
+            [
+              103.9028788,
+              1.4044948
+            ],
+            [
+              103.9023155,
+              1.4034919
+            ],
+            [
+              103.9025304,
+              1.403368
+            ],
+            [
+              103.9026886,
+              1.4032743
+            ],
+            [
+              103.9029776,
+              1.4031102
+            ],
+            [
+              103.9030414,
+              1.403068
+            ],
+            [
+              103.9026262,
+              1.4023821
+            ],
+            [
+              103.9025116,
+              1.4021538
+            ],
+            [
+              103.9022654,
+              1.4017861
+            ],
+            [
+              103.902118,
+              1.4015093
+            ],
+            [
+              103.9023476,
+              1.4013854
+            ],
+            [
+              103.9031734,
+              1.40098
+            ],
+            [
+              103.9034421,
+              1.4008596
+            ],
+            [
+              103.9041209,
+              1.4005336
+            ],
+            [
+              103.9043798,
+              1.4004082
+            ],
+            [
+              103.9046828,
+              1.4002637
+            ],
+            [
+              103.9050242,
+              1.4000698
+            ],
+            [
+              103.9051577,
+              1.3999848
+            ],
+            [
+              103.9054033,
+              1.3998295
+            ],
+            [
+              103.9055986,
+              1.3997228
+            ],
+            [
+              103.905743,
+              1.3996407
+            ],
+            [
+              103.9059382,
+              1.3995079
+            ],
+            [
+              103.9061025,
+              1.3993839
+            ],
+            [
+              103.9063653,
+              1.3991216
+            ],
+            [
+              103.9067438,
+              1.3988277
+            ],
+            [
+              103.9069347,
+              1.3986613
+            ],
+            [
+              103.9070557,
+              1.3985677
+            ],
+            [
+              103.9072434,
+              1.3983908
+            ],
+            [
+              103.9072954,
+              1.3983383
+            ],
+            [
+              103.9075169,
+              1.3981835
+            ],
+            [
+              103.9088727,
+              1.3970902
+            ],
+            [
+              103.9090782,
+              1.3969215
+            ],
+            [
+              103.9099627,
+              1.3961952
+            ],
+            [
+              103.9100457,
+              1.3961306
+            ],
+            [
+              103.9101733,
+              1.3960314
+            ],
+            [
+              103.9107444,
+              1.3955554
+            ],
+            [
+              103.9109561,
+              1.3953768
+            ],
+            [
+              103.9110416,
+              1.3953097
+            ],
+            [
+              103.9112474,
+              1.3951371
+            ],
+            [
+              103.9117163,
+              1.3947438
+            ],
+            [
+              103.9125156,
+              1.3940733
+            ],
+            [
+              103.9131276,
+              1.3935852
+            ],
+            [
+              103.9135578,
+              1.3932211
+            ],
+            [
+              103.9137421,
+              1.3930598
+            ],
+            [
+              103.9138962,
+              1.3929069
+            ],
+            [
+              103.9141667,
+              1.3926882
+            ],
+            [
+              103.9145328,
+              1.3923954
+            ],
+            [
+              103.9146504,
+              1.3923013
+            ],
+            [
+              103.9145753,
+              1.3921945
+            ],
+            [
+              103.9144359,
+              1.3919642
+            ],
+            [
+              103.9141067,
+              1.3915072
+            ],
+            [
+              103.9138828,
+              1.3911861
+            ],
+            [
+              103.9137358,
+              1.3909848
+            ],
+            [
+              103.9136474,
+              1.3908634
+            ],
+            [
+              103.913577,
+              1.3907631
+            ],
+            [
+              103.9134175,
+              1.3905741
+            ],
+            [
+              103.9131975,
+              1.3902858
+            ],
+            [
+              103.9129548,
+              1.3900244
+            ],
+            [
+              103.9126609,
+              1.3897224
+            ],
+            [
+              103.9122453,
+              1.3893917
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6623061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847853709",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623061,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 62A (Punggol Temporary Interchange => Aljunied Station)",
+              "public_transport:version": "2",
+              "ref": "62A",
+              "route": "bus",
+              "to": "Aljunied Station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9025242,
+          1.404107
+        ]
+      },
+      "id": "node/1847853709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472381",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623061,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 62A (Punggol Temporary Interchange => Aljunied Station)",
+              "public_transport:version": "2",
+              "ref": "62A",
+              "route": "bus",
+              "to": "Aljunied Station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9035672,
+          1.4008806
+        ]
+      },
+      "id": "node/410472381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472387",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623061,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 62A (Punggol Temporary Interchange => Aljunied Station)",
+              "public_transport:version": "2",
+              "ref": "62A",
+              "route": "bus",
+              "to": "Aljunied Station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9065501,
+          1.3991335
+        ]
+      },
+      "id": "node/410472387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472394",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623061,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 62A (Punggol Temporary Interchange => Aljunied Station)",
+              "public_transport:version": "2",
+              "ref": "62A",
+              "route": "bus",
+              "to": "Aljunied Station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9098666,
+          1.3963978
+        ]
+      },
+      "id": "node/410472394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410472393",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623061,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 62A (Punggol Temporary Interchange => Aljunied Station)",
+              "public_transport:version": "2",
+              "ref": "62A",
+              "route": "bus",
+              "to": "Aljunied Station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9122461,
+          1.3944344
+        ]
+      },
+      "id": "node/410472393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426007103",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 6623061,
+            "reltags": {
+              "direction": "1",
+              "from": "Punggol Temporary Interchange",
+              "name": "Svc 62A (Punggol Temporary Interchange => Aljunied Station)",
+              "public_transport:version": "2",
+              "ref": "62A",
+              "route": "bus",
+              "to": "Aljunied Station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9142797,
+          1.3914883
+        ]
+      },
+      "id": "node/4426007103"
+    }
+  ]
+}
